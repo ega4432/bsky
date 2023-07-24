@@ -1,23 +1,14 @@
-# typescript-template
-
-## Features
-
-- [x] **TypeScript** project setting in tsconfig.json
-- [x] Formating code with **Prettier**
-- [x] Finding code problems with **ESLint**
-- [x] Automatically pre-commit hook with **husky** and **lint-staged**
-- [x] Automatically **VSCode** editor format
-- [x] Managing **node version** in the asdf configuration file .tool-versions.
+# bsky
 
 ## Usage
 
 ```bash
 # install dependencies
-$ pnpm install
+$ npm install
 
 # build
-$ pnpm run build
+$ npm run build
 
 # start local server
-$ pnpm run dev
+$ npm run dev
 ```
